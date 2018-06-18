@@ -1,0 +1,8 @@
+use test.so
+call test
+call main
+call test1_func
+use other.so
+call func1
+use libdl.so
+call dlclose

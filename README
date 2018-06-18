@@ -1,0 +1,16 @@
+Compiling 
+---------------
+
+this project can be compiled for a UNIX/Linux/POSIX host by typing "make".
+
+The test suite can be run by typing "./main Doc1". where doc 1 is the name of the file that cotains the script to run
+
+
+
+Included Files 
+---------------
+The source code is in the file main.c
+The zip contains the makefile to compile it
+
+The zip contains a test script called Doc1, and a test shared library called test.so, this one was compiled from also included source test.c and has been registered as shared library in order to test
+
